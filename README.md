@@ -1,6 +1,7 @@
 # libhttp
 
 A split version of [beego/httplib](https://github.com/astaxie/beego/blob/master/httplib/README.md)
+All Copyrights reserved to [@astaxie](https://github.com/astaxie/)
 
 ## httplib
 httplib is an libs help you to curl remote url.
